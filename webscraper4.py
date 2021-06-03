@@ -61,12 +61,4 @@ for month_link in link_list:
             file.writelines("\n \n"); 
             number_article = number_article + 1;
             
-file.close();            
-        
-        
-    
-    
-        
-     
-    
-
+file.close();
